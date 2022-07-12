@@ -1,0 +1,106 @@
+[[docs]]
+  name = "GUIDE"
+  weight = 10
+  identifier = "GUIDE"
+  url = "/docs/GUIDE/"
+
+[[docs]]
+  name = "CPU"
+  weight = 20
+  identifier = "CPU"
+  url = "/docs/CPU/"
+
+[[docs]]
+  name = "mother-board"
+  weight = 30
+  identifier = "mother-board"
+  url = "/docs/MOTHER-BOARD/"
+
+[[docs]]
+  name = "GPU"
+  weight = 40
+  identifier = "GPU"
+  url = "/docs/GPU/"
+
+ [[docs]]
+   name = "DRAM"
+   weight = 50
+   identifier = "DRAM"
+   url = "/docs/DRAM/"
+
+[[docs]]
+  name = "HDD"
+  weight = 60
+  identifier = "HDD"
+  url = "/docs/HDD/"
+
+[[docs]]
+  name = "SSD"
+  weight = 70
+  identifier = "SSD"
+  url = "/docs/SSD/"
+
+[[docs]]
+  name = "POWER"
+  weight = 80
+  identifier = "POWER"
+  url = "/docs/POWER/"
+
+[[docs]]
+  name = "COOLING"
+  weight = 90
+  identifier = "COOLING"
+  url = "/docs/COOLING/"
+
+[[docs]]
+  name = "CASE"
+  weight = 100
+  identifier = "CASE"
+  url = "/docs/CASE/"
+
+[[docs]]
+  name = "MONITOR"
+  weight = 110
+  identifier = "MONITOR"
+  url = "/docs/MONITOR/"
+
+[[docs]]
+  name = "SPECIFICATION"
+  weight = 200
+  identifier = "SPECIFICATIONn"
+  url = "/docs/SPECIFICATION/"
+
+
+
+[[main]]
+  name = "文档"
+  url = "/docs/guide/introduction/"
+  weight = 10
+
+
+[[main]]
+  name = "开箱"
+  url = "/blog/"
+  weight = 20
+
+#[[main]]
+#  name = "Get Started"
+#  weight = 30
+#  identifier = "get-started"
+#  url = "/docs/guide/introduction/"
+#  parent = "get-started"
+
+
+
+[[social]]
+  name = "GitHub"
+  pre = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-github\"><path d=\"M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22\"></path></svg>"
+  url = "https://github.com/h-enk/doks"
+  post = "v0.1.0"
+  weight = 10
+
+
+# [[footer]]
+#   name = "Privacy"
+#   url = "/privacy-policy/"
+#   weight = 10
